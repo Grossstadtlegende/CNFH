@@ -1,0 +1,19 @@
+
+
+
+name	01a_tree01
+
+type	obstacle
+shadow	0
+
+
+
+anim	idle
+	loop	1
+	delay	100
+	offset	62 190
+	bbox	-6 161 140 45
+	frame	data/chars/misc/01a_tree01.gif
+		
+#|edited by openBor Stats v 0.62
+		
